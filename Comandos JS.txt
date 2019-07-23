@@ -1,0 +1,1 @@
+typeof <objeto ou variavel> 
