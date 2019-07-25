@@ -1,1 +1,8 @@
 typeof <objeto ou variavel> 
+
+variavel.toString
+String(variavel)
+
+variavel.lenght
+variavel.toUpperCase()
+variavel.toLowerCase()
